@@ -14,7 +14,7 @@ Python 版本： Python 3.11.4 ('base':conda)
 ## 目录结构
 
 ```shell
-—— 21311071_张宇鹏_实验九
+—— RF-LR-adult
  |—— dataset 数据集文件夹
  |—— figure  图像结果数据
  |—— data_preprocess.py 数据清洗、编码
