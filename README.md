@@ -11,10 +11,6 @@
 
 Python 版本： Python 3.11.4 ('base':conda)
 
-## 姓名学号
-
-[张宇鹏](https://github.com/SYSU-Zhangyp) , 21311071
-
 ## 目录结构
 
 ```shell
